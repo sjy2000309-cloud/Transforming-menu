@@ -4,15 +4,83 @@
     "answer": "Soy sauce may be added directly to food and is commonly used as a dipping sauce or used as seasoning in cooking."
   },
   {
+    "query": "How is soy sauce commonly used?",
+    "answer": "Soy sauce may be added directly to food and is commonly used as a dipping sauce or used as seasoning in cooking."
+  },
+  {
+    "query": "What is miso used for?",
+    "answer": "Miso is used for sauces and spreads; pickling vegetables, fish, or meats; and mixing with dashi soup stock to serve as miso soup, a Japanese culinary staple food."
+  },
+  {
+    "query": "How is miso commonly used?",
+    "answer": "Miso is used for sauces and spreads; pickling vegetables, fish, or meats; and mixing with dashi soup stock to serve as miso soup, a Japanese culinary staple food."
+  },
+  {
+    "query": "What is garlic used for?",
+    "answer": "Garlic has been used for thousands of years as a seasoning, culinary ingredient"
+  },
+  {
+    "query": "How is garlic commonly used?",
+    "answer": "Garlic has been used for thousands of years as a seasoning, culinary ingredient"
+  },
+  {
+    "query": "What is ginger used for?",
+    "answer": "Ginger is a flowering plant whose rhizome, ginger root or ginger, is widely used as a spice"
+  },
+  {
+    "query": "How is ginger commonly used in cooking?",
+    "answer": "Ginger is a flowering plant whose rhizome, ginger root or ginger, is widely used as a spice"
+  },
+  {
     "query": "Where does tempura come from?",
     "answer": "Tempura originated in the 16th century, when Portuguese Jesuits brought the Western-style cooking method of coating foods with flour and frying, via Nanban trade."
+  },
+  {
+    "query": "Where did tempura originate?",
+    "answer": "Tempura originated in the 16th century, when Portuguese Jesuits brought the Western-style cooking method of coating foods with flour and frying, via Nanban trade."
+  },
+  {
+    "query": "Where does tofu come from?",
+    "answer": "Tofu originated in China and has been consumed for over 2,000 years."
+  },
+  {
+    "query": "Where does ramen come from?",
+    "answer": "The origins of ramen can be traced back to Yokohama Chinatown in the late 19th century."
+  },
+  {
+    "query": "Where does ginger come from?",
+    "answer": "Ginger originated in Maritime Southeast Asia and was likely domesticated first by the Austronesian peoples."
+  },
+  {
+    "query": "Where does bulgogi come from?",
+    "answer": "Bulgogi is believed to have originated during the Goguryeo era (37 BCE–668 CE), when it was originally called maekjeok (Korean: 맥적; Hanja: 貊炙), with the beef being grilled on a skewer."
   },
   {
     "query": "When is udon usually eaten or served?",
     "answer": "Udon noodles are usually served chilled in the summer and hot in the winter."
   },
   {
+    "query": "At what time of year is udon commonly eaten?",
+    "answer": "Udon noodles are usually served chilled in the summer and hot in the winter."
+  },
+  {
+    "query": "When is dim sum usually eaten or served?",
+    "answer": "Dim sum are usually eaten as breakfast or brunch."
+  },
+  {
+    "query": "At what meal is dim sum commonly eaten?",
+    "answer": "Dim sum are usually eaten as breakfast or brunch."
+  },
+  {
+    "query": "When is kimchi usually eaten?",
+    "answer": "Kimchi is a staple food in Korean cuisine and is eaten as a side dish with almost every Korean meal."
+  },
+  {
     "query": "How is peking duck usually served?",
+    "answer": "Peking duck is traditionally carved in front of the guests and served in three stages."
+  },
+  {
+    "query": "How is peking duck traditionally served?",
     "answer": "Peking duck is traditionally carved in front of the guests and served in three stages."
   },
   {
@@ -20,15 +88,27 @@
     "answer": "Hot pot is a flavorful broth traditionally served inside a large metal pot."
   },
   {
-    "query": "When is dim sum usually eaten or served?",
-    "answer": "Dim sum (traditional Chinese: 點心; simplified Chinese: 点心; pinyin: diǎn xīn; Jyutping: dim2 sam1) is a large range of small Chinese dishes that are traditionally enjoyed in restaurants for brunch."
+    "query": "How is hot pot traditionally served?",
+    "answer": "Hot pot is a flavorful broth traditionally served inside a large metal pot."
   },
   {
-    "query": "What is miso used for?",
-    "answer": "It is used for sauces and spreads; pickling vegetables, fish, or meats; and mixing with dashi soup stock to serve as miso soup, a Japanese culinary staple food."
+    "query": "How is sushi usually served?",
+    "answer": "Sushi is often served with pickled ginger (gari), wasabi, and soy sauce."
   },
   {
-    "query": "What is garlic used for?",
-    "answer": "Garlic has been used for thousands of years as a seasoning, culinary ingredient, and traditional medical remedy."
+    "query": "How is soba usually served?",
+    "answer": "Chilled soba is often served on a sieve-like bamboo tray called a zaru, sometimes garnished with bits of dried nori seaweed, with a dipping sauce known as soba tsuyu on the side."
+  },
+  {
+    "query": "How is bulgogi usually served?",
+    "answer": "Bulgogi is often served over or with a side of rice and accompanied by various side dishes such as egg soup and kimchi (fermented cabbage)."
+  },
+  {
+    "query": "How is bibimbap usually served?",
+    "answer": "Bibimbap is served as a bowl of warm white rice topped with namul (sautéed or blanched seasoned vegetables) and gochujang (chili pepper paste)."
+  },
+  {
+    "query": "What is fish sauce used for?",
+    "answer": "Fish sauce is used as a staple seasoning in East Asian cuisine and Southeast Asian cuisine, particularly Myanmar, Cambodia, Laos, Philippines, Thailand, and Vietnam."
   }
 ]
